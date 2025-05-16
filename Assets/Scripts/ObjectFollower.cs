@@ -9,6 +9,9 @@ public class ObjectFollower : MonoBehaviour
     public float followSpeed;
     void Update()
     {
+        if (follow == null)
+            return;
+
         if (followSpeed >= 0)
         {
             transform.position = Vector3.Lerp(transform.position, follow.position + offset, followSpeed * Time.deltaTime);

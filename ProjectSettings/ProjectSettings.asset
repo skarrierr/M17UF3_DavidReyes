@@ -852,11 +852,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3094ae62-46e6-4f7e-ac48-4fd840c5d0cd
+  cloudProjectId: 74491b7d-be51-49ae-a1a7-ea2b9612cae9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: M09UF1_AA1_Animation&Camera
-  organizationId: unity_da0f7622dbdcdae81b2f
+  projectName: ThirdPersonCharacter (1)
+  organizationId: unity_31ddf433432134d8ad33
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
